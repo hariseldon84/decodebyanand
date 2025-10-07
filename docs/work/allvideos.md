@@ -2,8 +2,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | AI + Ancient Texts Deciphering | Technology/History | [Script](epic-2/fullscripts/video-26-ai-ancient-texts.md) | [Production](epic-2/productions/video-26-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 2 | AI Content Filters | Technology | [Script](epic-2/fullscripts/video-12-ai-content-filters.md) | [Production](epic-2/productions/video-12-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
-| 3 | AI Military Strategy | Technology/Military | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 4 | AI Served Humans vs Algorithms | Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 3 | AI Military Strategy | Technology/Military | [Script](epic-2/fullscripts/video-27-ai-military-strategy.md) | [Production](epic-2/productions/video-27-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
+| 4 | AI Served Humans vs Algorithms | Technology | [Script](epic-2/fullscripts/video-28-ai-served-humans-vs-algorithms.md) | [Production](epic-2/productions/video-28-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 5 | AI Smart Weapons | Technology/Defense | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 6 | Algorithm Bubbles | Technology | [Script](epic-2/fullscripts/video-13-algorithm-bubbles.md) | [Production](epic-2/productions/video-13-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 7 | Ancient Roman Concrete → Modern | History/Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
