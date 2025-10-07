@@ -1,6 +1,6 @@
 | # | Name | Category | Script | Production | Status | Created On | Completed On |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | AI + Ancient Texts Deciphering | Technology/History | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 1 | AI + Ancient Texts Deciphering | Technology/History | [Script](epic-2/fullscripts/video-26-ai-ancient-texts.md) | [Production](epic-2/productions/video-26-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 2 | AI Content Filters | Technology | [Script](epic-2/fullscripts/video-12-ai-content-filters.md) | [Production](epic-2/productions/video-12-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 3 | AI Military Strategy | Technology/Military | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 4 | AI Served Humans vs Algorithms | Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
@@ -12,11 +12,11 @@
 | 10 | Banking → Fintech/Crypto | Finance | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 11 | Big Data Burst | Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 12 | Blockchain + Indian Agriculture | Technology/Agriculture | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 13 | Boundaries to Scientific Knowledge | Science/Philosophy | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 14 | Cancer Cure Research Frontiers | Science | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 13 | Boundaries to Scientific Knowledge | Science/Philosophy | [Script](epic-2/fullscripts/video-24-boundaries-to-scientific-knowledge.md) | [Production](epic-2/productions/video-24-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
+| 14 | Cancer Cure Research Frontiers | Science | [Script](epic-2/fullscripts/video-25-cancer-cure-frontiers.md) | [Production](epic-2/productions/video-25-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 15 | Cash → Digital Payments | Fintech | [Script](epic-2/fullscripts/video-2-upi-revolution.md) | [Production](epic-2/productions/video-2-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
-| 16 | Caste Invisible Walls | Social/India | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 17 | Caste System Eliminated Overnight | Social/India | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 16 | Caste Invisible Walls | Social/India | [Script](epic-2/fullscripts/video-16-caste-invisible-walls.md) | [Production](epic-2/productions/video-16-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
+| 17 | Caste System Eliminated Overnight | Social/India | [Script](epic-2/fullscripts/video-17-caste-system-eliminated-overnight.md) | [Production](epic-2/productions/video-17-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 18 | Changing History Butterfly Effect | Philosophy/Science | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 19 | China's Belt & Road → India Counter | Geopolitics | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 20 | Climate Change Boundaries | Science | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
@@ -34,15 +34,15 @@
 | 32 | Doctors → AI Diagnosis | Healthcare/Tech | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 33 | Electronic Waste Future Crisis | Environment | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 34 | Estonia Digital Government → India | Governance/Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 35 | Fossil Fuels → Renewables | Energy/Geopolitics | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 35 | Fossil Fuels → Renewables | Energy/Geopolitics | [Script](epic-2/fullscripts/video-19-fossil-fuels-to-renewables.md) | [Production](epic-2/productions/video-19-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 36 | Game Engines for Urban Planning | Technology/Governance | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 37 | Geopolitics + Climate Science | Environment | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 38 | Historical Events as Illusions | Philosophy/Science | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 39 | Human Decisions → AI | Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 39 | Human Decisions → AI | Technology | [Script](epic-2/fullscripts/video-20-human-decisions-to-ai.md) | [Production](epic-2/productions/video-20-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 40 | Humans Had Photosynthesis | Science/Biology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 41 | Humans Lost Ability to Lie | Psychology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 42 | Immune System → Cybersecurity | Biology/Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 43 | India Adopts US Protectionism | Geopolitics/India | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 43 | India Adopts US Protectionism | Geopolitics/India | [Script](epic-2/fullscripts/video-18-india-adopts-us-protectionism.md) | [Production](epic-2/productions/video-18-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 44 | India as Center of Human History | Mythology/India | [Script](epic-2/fullscripts/video-3-india-center-of-human-history.md) | [Production](epic-2/productions/video-3-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 45 | India Colonized Britain | History/India | [Script](epic-2/fullscripts/video-6-india-colonized-britain.md) | [Production](epic-2/productions/video-6-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 46 | India Colonized Britain Instead | History/Geopolitics | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
@@ -65,7 +65,7 @@
 | 63 | Modified Sleep Dream Recording | Technology/Neuroscience | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 64 | Monsoon Prediction AI | Science/Agriculture | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 65 | Movie Theatres → OTT → Short Form → ? | Media | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 66 | Nation States → Tech Corporations | Geopolitics | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 66 | Nation States → Tech Corporations | Geopolitics | [Script](epic-2/fullscripts/video-21-nation-states-to-tech-corporations.md) | [Production](epic-2/productions/video-21-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 67 | Nordic Prison Reform → India | Social/Governance | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 68 | Nuclear Energy + Desalination | Energy/Water | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 69 | Nuclear Waste 10,000 Year Warnings | Science | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
@@ -101,9 +101,9 @@
 | 99 | Tech Solutions India Traffic | Technology/India | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 100 | Technology Makes Us Dumber | Technology | [Script](epic-2/fullscripts/video-5-technology-makes-us-dumber.md) | [Production](epic-2/productions/video-5-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 101 | The Superhuman Generation | Science/Future | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 102 | Time Zones as Control Mechanisms | Geopolitics/Unique | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 102 | Time Zones as Control Mechanisms | Geopolitics/Unique | [Script](epic-2/fullscripts/video-15-time-zones-control.md) | [Production](epic-2/productions/video-15-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 103 | Traditional Craftsmen + 3D Printing | Culture/Technology | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
-| 104 | Traditional Jobs → Gig Economy | Economy | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
+| 104 | Traditional Jobs → Gig Economy | Economy | [Script](epic-2/fullscripts/video-22-traditional-jobs-to-gig-economy.md) | [Production](epic-2/productions/video-22-production.md) | Done | 2025-10-07 16:00 | 2025-10-07 16:00 |
 | 105 | Traditional Warfare → Cyber Warfare | Geopolitics | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 106 | Unique Plants → Novel Medicines | Science | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
 | 107 | Universal Basic Intelligence | Technology/Society | TBD | TBD | Not Started | 2025-10-07 16:00 |  |
