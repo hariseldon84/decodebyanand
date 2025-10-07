@@ -2,7 +2,7 @@
 
 ## Research & Script Assets
 - Research log: `docs/work/epic-2/scripts/research-notes/video-2-upi-revolution.md` (10 sources spanning NPCI, RBI, World Bank, IMF, BIS, The Ken).
-- Script draft: `docs/work/epic-2/scripts/examples/video-2-upi-revolution.md` — 2,245 words covering JAM origins, incentive design, and future risks with `{U#}` citations tied to research log.
+- Script draft: `docs/work/epic-2/scripts/fullscripts/video-2-upi-revolution.md` — 2,245 words covering JAM origins, incentive design, and future risks with `{U#}` citations tied to research log.
 - Metadata package: `docs/work/epic-2/metadata/video-2-metadata.md` including SEO title, 240-word description, 20 tags, and pin comment prompt.
 
 ## Efficiency Targets

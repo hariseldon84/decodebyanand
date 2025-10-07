@@ -2,7 +2,7 @@
 
 ## Research & Script Deliverables
 - Research notes: `docs/work/epic-2/scripts/research-notes/video-3-india-center-of-human-history.md` with balanced source mix (ASI, NIOT, genetic studies, UNESCO, Pew).
-- Script draft: `docs/work/epic-2/scripts/examples/video-3-india-center-of-human-history.md` — 2,256 words, includes on-screen disclaimer, lens comparison, and moderation cues.
+- Script draft: `docs/work/epic-2/scripts/fullscripts/video-3-india-center-of-human-history.md` — 2,256 words, includes on-screen disclaimer, lens comparison, and moderation cues.
 - Metadata: `docs/work/epic-2/metadata/video-3-metadata.md` with 240-word description highlighting multiple perspectives and moderated discourse expectations.
 
 ## Sensitivity & Compliance

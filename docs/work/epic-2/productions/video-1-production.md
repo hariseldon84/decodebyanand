@@ -2,7 +2,7 @@
 
 ## Research & Script Status
 - Research notebook: `docs/work/epic-2/scripts/research-notes/video-1-indian-startups-high-tech-gap.md` with 10 sourced references, bias notes, and visual ideation.
-- Production script: `docs/work/epic-2/scripts/examples/video-1-indian-startups-high-tech-gap.md` — 2,439 words aligned to template with `{S#}` citations, act-level visual beats, and OBS cues.
+- Production script: `docs/work/epic-2/scripts/fullscripts/video-1-indian-startups-high-tech-gap.md` — 2,439 words aligned to template with `{S#}` citations, act-level visual beats, and OBS cues.
 - Pending validation: verify S1 figures with one additional data source and refresh semiconductor incentive numbers 48 hours prior to recording.
 
 ## Pre-Production Checklist
