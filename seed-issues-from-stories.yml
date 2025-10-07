@@ -1,0 +1,46 @@
+name: Seed issues from story docs
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without creating anything"
+        type: boolean
+        default: false
+  push:
+    paths:
+      - "docs/stories/*.md"
+      - ".github/workflows/seed-issues-from-stories.yml"
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: python - <<'PY'
+import sys, subprocess
+subprocess.check_call([sys.executable, "-m", "pip", "install", "requests"])
+PY
+      - name: Download helper script
+        run: |
+          curl -sSL "$ASSET_URL" -o create_issues_from_stories.py
+        env:
+          # You can replace this with storing the script in your repo instead of downloading.
+          # For first run, paste the script into your repo at tools/create_issues_from_stories.py and adjust this step.
+          ASSET_URL: https://raw.githubusercontent.com/placeholder/placeholder/main/create_issues_from_stories.py
+      - name: Run seeder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          python create_issues_from_stories.py --root . $([ "${{ inputs.dry_run }}" = "true" ] && echo "--dry-run" || true)
