@@ -154,7 +154,7 @@
 
 ---
 
-## Detailed Categorization
+## Detailed Video Description
 
 ### Category 1: Immediate Opportunities (38 videos)
 
